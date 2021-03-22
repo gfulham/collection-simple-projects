@@ -4,4 +4,4 @@ All these projects are simple and do not require their own depository. They may 
 
 Below is a list of the Jupyter Notebooks contained in the repository.  
 
-Recreate the Barnsley Fern.
+Recreate the Barnsley Fern using fractals
